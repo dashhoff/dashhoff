@@ -25,19 +25,19 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="75" alt="csharp logo"  />
-  <img width="50" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="75" alt="unity logo"  />
-  <img width="50" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75" alt="mysql logo"  />
-  <img width="50" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="75" alt="postgresql logo"  />
-  <img width="50" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="75" alt="dotnetcore logo"  />
-  <img width="50" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="75" alt="dot-net logo"  />
-  <img width="50" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75" alt="git logo"  />
-  <img width="50" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="75" alt="github logo"  />
 </div>
 
