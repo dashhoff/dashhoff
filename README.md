@@ -1,4 +1,8 @@
-<img align="right" height="200" src="https://ie.wampi.ru/2023/10/08/IZOBRAZENIE_2023-10-08_224759565.png"  />
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://ie.wampi.ru/2023/10/08/IZOBRAZENIE_2023-10-08_224759565.png"  />
+</div>
 
 ###
 
