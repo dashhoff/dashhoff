@@ -17,19 +17,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dashhoff.dashhoff&"  />
-
-###
-
 <h1 align="left">Hi, I'm Danila👋</h1>
-
-###
-
-<h3 align="center"></h3>
-
-###
-
-<p align="center"></p>
 
 ###
 
@@ -45,15 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<div align="center">
 </div>
 
 ###
