@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://ie.wampi.ru/2023/10/08/IZOBRAZENIE_2023-10-08_224759565.png"  />
+  <img height="200" src="https://media.discordapp.net/attachments/656865654976020490/1160654090129391626/2023-10-08_230424606.png?ex=6535725a&is=6522fd5a&hm=2e98d6508412980c02622464eca7b15608cce8e5e3420f497cfeebe096c49e43&="  />
 </div>
 
 ###
