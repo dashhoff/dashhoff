@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/656865654976020490/1160654090129391626/2023-10-08_230424606.png?ex=6535725a&is=6522fd5a&hm=2e98d6508412980c02622464eca7b15608cce8e5e3420f497cfeebe096c49e43&="  />
+  <img height="250" src="https://media.discordapp.net/attachments/656865654976020490/1161228405971357757/2023-10-10_130642516.png?ex=6537893a&is=6525143a&hm=95fa16ccf58a79ca1bd216a68b2458e67323f7fb592d8849ae286dab34186574&="  />
 </div>
 
 ###
@@ -39,6 +39,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75" alt="git logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="75" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="center">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/DaSHhxd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
