@@ -6,10 +6,13 @@
 
 <div align="left">
   <a href="https://t.me/DaSHhxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=White&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=White&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
   <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://vk.com/hah_ti_poiman" target="_blank">
+    <img src="https://media.discordapp.net/attachments/656865654976020490/1162005492986544209/2023-10-12_162851058.png?ex=653a5cf2&is=6527e7f2&hm=b7819110c72569df8aa9d1ae263671cb8146b6fdd07bdd1d775bb85f10a0151f&=" height="40" alt="telegram logo"  />
   </a>
 </div>
 
