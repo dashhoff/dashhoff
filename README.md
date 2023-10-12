@@ -38,7 +38,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75" alt="git logo"  />
   <img width="25" />
-  <img src="https://ru.odvme.com/uploads/posts/2022-12/github.webp" height="75" alt="github logo"  />
+  <img src="https://yt3.ggpht.com/ytc/AKedOLTiFKB6t84xCbjHLINXaSLPQQc4KOBlFXwOdjIedw=s900-c-k-c0x00ffffff-no-rj" height="75" alt="github logo"  />
 </div>
 
 ###
