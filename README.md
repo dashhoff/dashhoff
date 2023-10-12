@@ -6,13 +6,13 @@
 
 <div align="left">
   <a href="https://vk.com/hah_ti_poiman" target="_blank">
-    <img src="https://media.discordapp.net/attachments/656865654976020490/1162012083139924008/VK.png?ex=653a6315&is=6527ee15&hm=d9408bf8bc9644236543b3521f4ad1881768b0a4051ab122f9d8af933a2a96ee&=&width=1409&height=245" height="40" alt="Vk logo"  />
+    <img src="https://media.discordapp.net/attachments/656865654976020490/1162012083139924008/VK.png?ex=653a6315&is=6527ee15&hm=d9408bf8bc9644236543b3521f4ad1881768b0a4051ab122f9d8af933a2a96ee&=&width=1409&height=245" height="25" alt="Vk logo"  />
   </a>
   <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://t.me/DaSHhxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=White&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=White&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
 
