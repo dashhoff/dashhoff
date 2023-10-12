@@ -26,7 +26,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="75" alt="csharp logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="75" alt="unity logo"  />
+  <img src="\https://gitlab.com/uploads/-/system/group/avatar/65976989/unity-logo.png" height="75" alt="unity logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75" alt="mysql logo"  />
   <img width="25" />
