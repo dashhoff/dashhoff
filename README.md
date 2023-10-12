@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://vk.com/hah_ti_poiman" target="_blank">
-    <img src="https://media.discordapp.net/attachments/656865654976020490/1162005492986544209/2023-10-12_162851058.png?ex=653a5cf2&is=6527e7f2&hm=b7819110c72569df8aa9d1ae263671cb8146b6fdd07bdd1d775bb85f10a0151f&=" height="40" alt="telegram logo"  />
+    <img src="https://media.discordapp.net/attachments/656865654976020490/1162012083139924008/VK.png?ex=653a6315&is=6527ee15&hm=d9408bf8bc9644236543b3521f4ad1881768b0a4051ab122f9d8af933a2a96ee&=&width=1409&height=245" height="40" alt="Vk logo"  />
   </a>
   <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
