@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo"  />
   </a>
   <a href="https://vk.com/hah_ti_poiman" target="_blank">
-    <img src="https://www.web-canape.ru/files/catalog/1566/gallery/big/vk-logo_1684749591.jpg" width="70" height="50" alt="VK logo"  />
+    <img src="https://www.web-canape.ru/files/catalog/1566/gallery/big/vk-logo_1684749591.jpg" width="50" height="50" alt="VK logo"  />
   </a>
 </div>
 
