@@ -41,7 +41,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="25" />
-  <img src="https://i.pinimg.com/originals/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.png" height="60" alt="github logo"  />
+  <img src="https://media.discordapp.net/attachments/656865654976020490/1165004140276093109/image.png?ex=654545a7&is=6532d0a7&hm=7f22f7f01ea5285a9d6c8fe4478a5ace5f23eee39f081fbfb28767aefa840714&=" height="60" alt="github logo"  />
   <img width="20" />
   <a href="https://www.codewars.com/users/dashhoff" target="_blank">
     <img src="https://media.discordapp.net/attachments/656865654976020490/1162442952115765359/2023-10-13_213150260_1.png?ex=653bf45c&is=65297f5c&hm=6a267d26126691e697cc78caae8c283f5bd5fb1be491bab873c0ca0284e06967&=" height="70" alt="codewars logo"  />
