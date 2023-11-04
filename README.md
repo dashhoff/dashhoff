@@ -22,14 +22,14 @@
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="center">Language and tools</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="10" />
-  <img src="https://gitlab.com/uploads/-/system/group/avatar/65976989/unity-logo.png" height="60" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=white" height="30" alt="unity logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="10" />
