@@ -6,13 +6,13 @@
 
 <div align="left">
   <a href="https://vk.com/hah_ti_poiman" target="_blank">
-    <img src="https://media.discordapp.net/attachments/656865654976020490/1162012083139924008/VK.png?ex=653a6315&is=6527ee15&hm=d9408bf8bc9644236543b3521f4ad1881768b0a4051ab122f9d8af933a2a96ee&=&width=1409&height=245" height="25" alt="Vk logo"  />
+    <img src="https://img.shields.io/badge/VK-black?style=flat-square&logo=vk&logoColor=black&labelColor=white" height="40" alt="Vk logo"  />
   </a>
   <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/discord-black?style=flat-square&logo=discord&logoColor=black&labelColor=white" height="40" alt="discord logo"  />
   </a>
   <a href="https://t.me/DaSHhxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=White&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/telegram-black?style=flat-square&logo=telegram&logoColor=black&labelColor=white" height="40" alt="telegram logo"  />
   </a>
 </div>
 
@@ -31,20 +31,14 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=white" height="30" alt="unity logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=black&labelColor=white" height="30" alt="dotnetc logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=black&labelColor=white" height="30" alt="git logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="10" />
-  <img src="https://media.discordapp.net/attachments/656865654976020490/1165004140276093109/image.png?ex=654545a7&is=6532d0a7&hm=7f22f7f01ea5285a9d6c8fe4478a5ace5f23eee39f081fbfb28767aefa840714&=" height="60" alt="github logo"  />
+  <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=black&labelColor=white" height="30" alt="github logo"  />
   <img width="5" />
   <a href="https://www.codewars.com/users/dashhoff" target="_blank">
-    <img src="https://media.discordapp.net/attachments/656865654976020490/1162442952115765359/2023-10-13_213150260_1.png?ex=653bf45c&is=65297f5c&hm=6a267d26126691e697cc78caae8c283f5bd5fb1be491bab873c0ca0284e06967&=" height="70" alt="codewars logo"  />
+    <img src="https://img.shields.io/badge/codewars-black?style=flat-square&logo=codewars&logoColor=black&labelColor=white" height="30" alt="codewars logo"  />
   </a>
 </div>
 
