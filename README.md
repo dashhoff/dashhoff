@@ -14,6 +14,10 @@
   <a href="https://t.me/DaSHhxd" target="_blank">
     <img src="https://img.shields.io/badge/telegram-black?style=flat-square&logo=telegram&logoColor=black&labelColor=white" height="40" alt="telegram logo"  />
   </a>
+  <a href="https://www.codewars.com/users/dashhoff" target="_blank">
+    <img src="https://img.shields.io/badge/codewars-black?style=flat-square&logo=codewars&logoColor=black&labelColor=white" height="40" alt="codewars logo"  />
+  </a>
+  
 </div>
 
 ###
@@ -27,19 +31,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=black&labelColor=white" height="30" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=black&labelColor=white" height="40" alt="csharp logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=white" height="30" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=white" height="40" alt="unity logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=black&labelColor=white" height="30" alt="dotnetc logo"  />
+  <img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=black&labelColor=white" height="40" alt="dotnetc logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=black&labelColor=white" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=black&labelColor=white" height="40" alt="git logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=black&labelColor=white" height="30" alt="github logo"  />
+  <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=black&labelColor=white" height="40" alt="github logo"  />
   <img width="5" />
-  <a href="https://www.codewars.com/users/dashhoff" target="_blank">
-    <img src="https://img.shields.io/badge/codewars-black?style=flat-square&logo=codewars&logoColor=black&labelColor=white" height="30" alt="codewars logo"  />
-  </a>
 </div>
 
 ###
