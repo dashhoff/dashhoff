@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="https://vk.com/hah_ti_poiman" target="_blank">
-    <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7" height="30" alt="Vk logo"  />
+    <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7" height="30" alt="VK logo"  />
   </a>
   <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=black" height="30" alt="discord logo"  />
