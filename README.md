@@ -10,16 +10,16 @@
 
 <div align="left">
   <a href="https://vk.com/hah_ti_poiman" target="_blank">
-    <img src="https://img.shields.io/badge/VK-black?style=flat-square&logo=vk&logoColor=white&labelColor=black" height="30" alt="Vk logo"  />
+    <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7" height="30" alt="Vk logo"  />
   </a>
   <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
-    <img src="https://img.shields.io/badge/discord-black?style=flat-square&logo=discord&logoColor=white&labelColor=black" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/discord-black?style=flat-square&logo=discord&logoColor=5865F2&labelColor=black" height="30" alt="discord logo"  />
   </a>
   <a href="https://t.me/DaSHhxd" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-black?style=flat-square&logo=telegram&logoColor=white&labelColor=black" height="30" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" height="30" alt="telegram logo"  />
   </a>
   <a href="https://www.codewars.com/users/dashhoff" target="_blank">
-    <img src="https://img.shields.io/badge/codewars-black?style=flat-square&logo=codewars&logoColor=white&labelColor=black" height="30" alt="codewars logo"  />
+    <img src="https://img.shields.io/badge/codewars-black?style=flat-square&logo=codewars&logoColor=red&labelColor=black" height="30" alt="codewars logo"  />
   </a>
 </div>
 
