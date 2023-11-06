@@ -4,42 +4,41 @@
 
 ###
 
+<h2 align="left">Hi! I'm unity developer</h2>
+
+###
+
 <div align="left">
   <a href="https://vk.com/hah_ti_poiman" target="_blank">
-    <img src="https://img.shields.io/badge/VK-black?style=flat-square&logo=vk&logoColor=black&labelColor=white" height="40" alt="Vk logo"  />
+    <img src="https://img.shields.io/badge/VK-black?style=flat-square&logo=vk&logoColor=white&labelColor=black" height="30" alt="Vk logo"  />
   </a>
   <a href="https://discordapp.com/users/650016129993146368/" target="_blank">
-    <img src="https://img.shields.io/badge/discord-black?style=flat-square&logo=discord&logoColor=black&labelColor=white" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/discord-black?style=flat-square&logo=discord&logoColor=white&labelColor=black" height="30" alt="discord logo"  />
   </a>
   <a href="https://t.me/DaSHhxd" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-black?style=flat-square&logo=telegram&logoColor=black&labelColor=white" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/telegram-black?style=flat-square&logo=telegram&logoColor=white&labelColor=black" height="30" alt="telegram logo"  />
   </a>
   <a href="https://www.codewars.com/users/dashhoff" target="_blank">
-    <img src="https://img.shields.io/badge/codewars-black?style=flat-square&logo=codewars&logoColor=black&labelColor=white" height="40" alt="codewars logo"  />
+    <img src="https://img.shields.io/badge/codewars-black?style=flat-square&logo=codewars&logoColor=white&labelColor=black" height="30" alt="codewars logo"  />
   </a>
-  
 </div>
 
 ###
 
-<h1 align="left">Hi, I'm Danila👋</h1>
-
-###
-
-<h2 align="center">Language and tools</h2>
+<h2 align="left">Technology Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=black&labelColor=white" height="40" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=white&labelColor=black" height="30" alt="csharp logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=white" height="40" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=black" height="30" alt="unity logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=black&labelColor=white" height="40" alt="dotnetc logo"  />
+  <img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=white&labelColor=black" height="30" alt="dotnetc logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=black&labelColor=white" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black" height="30" alt="git logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=black&labelColor=white" height="40" alt="github logo"  />
+  <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black" height="30" alt="github logo"  />
   <img width="5" />
 </div>
 
