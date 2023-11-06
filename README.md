@@ -30,16 +30,12 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=white&labelColor=black" height="30" alt="csharp logo"  />
-  <img width="10" />
+  <img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=white&labelColor=black" height="30" alt="csharp logo"  /
   <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=black" height="30" alt="unity logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=white&labelColor=black" height="30" alt="dotnetc logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black" height="30" alt="git logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black" height="30" alt="github logo"  />
-  <img width="5" />
+  <img width="0" />
 </div>
 
 ###
