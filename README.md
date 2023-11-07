@@ -30,8 +30,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black" height="30" alt="csharp logo"  /
-  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=black" height="30" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black" height="30" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white" height="30" alt="unity logo"  />
   <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black" height="30" alt="dotnetc logo"  />
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black" height="30" alt="git logo"  />
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="30" alt="github logo"  />
