@@ -35,6 +35,9 @@
   <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black" height="30" alt="dotnetc logo"  />
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black" height="30" alt="git logo"  />
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="30" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgresql logo"  />
+   <img src="https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white" height="30" alt="sqlite logo"  />
   <img width="0" />
 </div>
 
