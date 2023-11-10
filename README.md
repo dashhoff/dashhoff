@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi! I'm unity developer </h1>
+<h1 align="left">Hi! I'm Unity Developer </h1>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Completed courses</h2>
+<h2 align="left">Completed Courses</h2>
 МЭО Академия: Основы Python. Программирование дронов (Офлайн). Дата прохождения курса: 01.10.2023 - сейчас.
 
 
