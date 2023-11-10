@@ -21,6 +21,10 @@
   <a href="https://www.codewars.com/users/dashhoff" target="_blank">
     <img src="https://img.shields.io/badge/codewars-black?style=for-the-badge&logo=codewars&logoColor=red&labelColor=black" height="30" alt="codewars logo"  />
   </a>
+  <a href="https://ddashh.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-black?style=for-the-badge&logo=itchdotio" height="30" alt="itch.io logo"  />
+  </a>
+  
 </div>
 
 ###
