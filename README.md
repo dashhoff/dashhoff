@@ -26,6 +26,10 @@
   <a href="https://ddashh.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-black?style=for-the-badge&logo=itchdotio" height="30" alt="itch.io logo"  />
   </a>
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/YandexGame-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="YG logo"  />
+  </a>
+  
   
 </div>
 
