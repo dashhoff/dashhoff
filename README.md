@@ -29,8 +29,6 @@
    <a href="" target="_blank">
     <img src="https://img.shields.io/badge/YandexGame-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="YG logo"  />
   </a>
-  
-  
 </div>
 
 ###
@@ -45,7 +43,6 @@
   <img src="https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio" height="30" alt="visualstudio logo"  />
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black" height="30" alt="git logo"  />
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="30" alt="github logo"  />
-  <img width="0" />
 </div>
 
 ###
@@ -66,6 +63,5 @@
 
 <h2 align="left">Completed Courses</h2>
 МЭО Академия: Основы Python. Программирование дронов (Офлайн). Дата прохождения курса: 01.11.2023 - сейчас.
-
 
 ###
