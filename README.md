@@ -50,13 +50,9 @@
 <h2 align="left">Games</h2>
 
 <div align="left">
-  <a href="https://ddashh.itch.io/rocketpush" target="_blank">
-    <img src="https://img.shields.io/badge/RocketPush-black?style=for-the-badge&logo=itchdotio" height="30" alt="RocketPush"  />
-  </a>
   <a href="https://yandex.ru/games/app/271368?draft=true&lang=ru" target="_blank">
     <img src="https://img.shields.io/badge/RocketPush-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="RocketPush YG"  />
   </a>
-
   
   <a href="https://ddashh.itch.io/rocketgo" target="_blank">
     <img src="https://img.shields.io/badge/RocketGo-black?style=for-the-badge&logo=itchdotio" height="30" alt="RocketGo"  />
