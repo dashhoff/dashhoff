@@ -53,12 +53,16 @@
 <h2 align="left">Games</h2>
 
 <div align="left">
+
+<a href="https://yandex.ru/games/app/274026?draft=true&lang=ru" target="_blank">
+    <img src="https://img.shields.io/badge/Fabric Simulation-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="Fabric Simulation YG"  />
+</a>
   <a href="https://yandex.ru/games/app/271368?draft=true&lang=ru" target="_blank">
     <img src="https://img.shields.io/badge/RocketPush-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="RocketPush YG"  />
   </a>
  <a href="https://yandex.ru/games/app/272825?draft=true&lang=ru" target="_blank">
     <img src="https://img.shields.io/badge/MineClick-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="MineClick YG"  />
-  </a>
+ </a>
 
   <a href="https://ddashh.itch.io/rocketgo" target="_blank">
     <img src="https://img.shields.io/badge/RocketGo-black?style=for-the-badge&logo=itchdotio" height="30" alt="RocketGo"  />
