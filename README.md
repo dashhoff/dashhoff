@@ -11,12 +11,9 @@
 ###
 
 <div align="left">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2" height="30" alt="LinkedIn logo"  />
-  </a>
-  <a href="https://vk.com/hah_ti_poiman" target="_blank">
+  <!---<a href="https://vk.com/hah_ti_poiman" target="_blank">
     <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7" height="30" alt="VK logo"  />
-  </a>
+  </a>-->
   <a href="https://t.me/DaSHhxd" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" height="30" alt="telegram logo"  />
   </a>
