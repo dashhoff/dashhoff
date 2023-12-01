@@ -50,7 +50,9 @@
 <h2 align="left">Games</h2>
 
 <div align="left">
-
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Low poly shooting gallery with destruction-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="Low poly shooting gallery with destruction YG"  />
+</a>
 <a href="https://yandex.ru/games/app/274026?lang=ru" target="_blank">
     <img src="https://img.shields.io/badge/Fabric Simulation-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="Fabric Simulation YG"  />
 </a>
