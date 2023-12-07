@@ -1,9 +1,7 @@
 ###
 
 <div align="center">
-  
-  <img height=120" src="https://media.discordapp.net/attachments/656865654976020490/1171479068940701717/snapedit_1699372749844.png?ex=655cd3e7&is=654a5ee7&hm=2540384a47d1bc0ccc354c9aebf7ae5ee365af2922de5cc81fa2c643f9612499&="  />
-
+<img height=120" src="https://media.discordapp.net/attachments/656865654976020490/1171479068940701717/snapedit_1699372749844.png?ex=655cd3e7&is=654a5ee7&hm=2540384a47d1bc0ccc354c9aebf7ae5ee365af2922de5cc81fa2c643f9612499&="  />
 </div>
 
 ###
