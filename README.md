@@ -4,7 +4,7 @@
 </div>
 
 
-# Hi! I'm Unity Developer*
+# Hi! I'm Unity Developer
 
 
 <div align="left">
