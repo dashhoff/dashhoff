@@ -1,14 +1,11 @@
-###
 
 <div align="center">
 <img height=120" src="https://media.discordapp.net/attachments/656865654976020490/1171479068940701717/snapedit_1699372749844.png?ex=655cd3e7&is=654a5ee7&hm=2540384a47d1bc0ccc354c9aebf7ae5ee365af2922de5cc81fa2c643f9612499&="  />
 </div>
 
-###
 
-<h1 align="left">Hi! I'm Unity Developer </h1>
+# Hi! I'm Unity Developer
 
-###
 
 <div align="left">
   
@@ -33,11 +30,9 @@
   
 </div>
 
-###
 
-<h2 align="left">Technology Stack</h2>
+## Technology Stack
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp" height="30" alt="csharp logo"  />
@@ -52,9 +47,9 @@
   </a>
 </div>
 
-###
 
-<h2 align="left">Games</h2>
+## Games
+
 
 <div align="left">
   
@@ -79,9 +74,6 @@
   
 </div>
 
-###
 
-<h2 align="left">Completed Courses</h2>
+## Completed Courses
 МЭО Академия: Основы Python. Программирование дронов (Офлайн). Дата прохождения курса: 01.11.2023 - сейчас.
-
-###
