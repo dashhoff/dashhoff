@@ -35,16 +35,16 @@
 
 
 <div align="left">
+  
   <img src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp" height="30" alt="csharp logo"  />
   <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity" height="30" alt="unity logo"  />
   <img src="https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio" height="30" alt="visualstudio logo"  />
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" height="30" alt="git logo"  />
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" height="30" alt="github logo"  />
   <img src="https://img.shields.io/badge/adobeillustrator-black?style=for-the-badge&logo=adobeillustrator" height="30" alt="AI logo"  />
-  
-  <a href="https://chat.openai.com/" target="_blank">
   <img src="https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai" height="30" alt="OpenAI logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" height="30" alt="Python logo"  />
+  
 </div>
 
 
@@ -72,7 +72,6 @@
   <img src="https://img.shields.io/badge/Geometry dash-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="Simulator of destruction of cars YG"  />
 </a>
 
-  
 </div>
 
 
