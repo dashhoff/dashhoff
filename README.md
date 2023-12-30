@@ -71,9 +71,6 @@
 <a href="https://yandex.ru/games/app/282612?lang=ru" target="_blank">
   <img src="https://img.shields.io/badge/Geometry dash wave-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="GD Wave"  />
 </a>
-<a href="https://yandex.ru/games/app/280452?draft=true&lang=ru" target="_blank">
-  <img src="https://img.shields.io/badge/Geometry dash swing copter-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="GD swing copter"  />
-</a>
 
 </div>
 
