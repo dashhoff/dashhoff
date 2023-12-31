@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" height="30" alt="github logo"  />
   <img src="https://img.shields.io/badge/adobeillustrator-black?style=for-the-badge&logo=adobeillustrator" height="30" alt="AI logo"  />
   <img src="https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai" height="30" alt="OpenAI logo"  />
+  <img src="https://img.shields.io/badge/godot-black?style=for-the-badge&logo=godotengine" height="30" alt="Godot logo"  />
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" height="30" alt="Python logo"  />
   
 </div>
