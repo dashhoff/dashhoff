@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" height="30" alt="github logo"  />
   <img src="https://img.shields.io/badge/adobeillustrator-black?style=for-the-badge&logo=adobeillustrator" height="30" alt="AI logo"  />
   <img src="https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai" height="30" alt="OpenAI logo"  />
-  <img src="https://img.shields.io/badge/godot-black?style=for-the-badge&logo=godotengine" height="30" alt="Godot logo"  />
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" height="30" alt="Python logo"  />
   
 </div>
@@ -59,12 +58,6 @@
 </a>
 <a href="https://yandex.ru/games/app/271368?lang=ru" target="_blank">
   <img src="https://img.shields.io/badge/RocketPush-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="RocketPush YG"  />
-</a>
-<a href="https://yandex.ru/games/app/272825?lang=ru" target="_blank">
-  <img src="https://img.shields.io/badge/MineClick-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="MineClick YG"  />
-</a>
-<a href="https://yandex.ru/games/app/282612?lang=ru" target="_blank">
-  <img src="https://img.shields.io/badge/Geometry dash wave-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="GD Wave"  />
 </a>
 
 </div>
