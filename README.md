@@ -61,10 +61,3 @@
 </a>
 
 </div>
-
-
-## Completed Courses
-
-MEO Academy: The Basics of Python. Drone programming (Offline). Date of completion of the course: 01.11.2023 - now.
-
-МЭО Академия: Основы Python. Программирование дронов (Офлайн). Дата прохождения курса: 01.11.2023 - сейчас.
