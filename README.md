@@ -1,8 +1,4 @@
-
-<div align="center">
-<img height=120" src="https://media.discordapp.net/attachments/656865654976020490/1171479068940701717/snapedit_1699372749844.png?ex=655cd3e7&is=654a5ee7&hm=2540384a47d1bc0ccc354c9aebf7ae5ee365af2922de5cc81fa2c643f9612499&="  />
-</div>
-
+[![snapedit-1697105712402.png](https://i.postimg.cc/RC3ggZ9y/snapedit-1697105712402.png)](https://postimg.cc/YjHN9kvz)
 
 # Hi! I'm Unity Developer
 
@@ -44,6 +40,7 @@
   
 </div>
 
+<!--
 
 ## Games
 
@@ -57,4 +54,4 @@
   <img src="https://img.shields.io/badge/RocketPush-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="RocketPush YG"  />
 </a>
 
-</div>
+</div> -->
