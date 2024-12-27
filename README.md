@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity" height="30" alt="unity logo"  />
  <!-- <img src="https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio" height="30" alt="visualstudio logo"  /> -->
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" height="30" alt="git logo"  />
-  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" height="30" alt="github logo"  />
+ <!-- <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" height="30" alt="github logo"  /> -->
   
 </div>
 
