@@ -33,9 +33,10 @@
   
   <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity" height="30" alt="unity logo"  />
   <img src="https://img.shields.io/badge/DOTween-black?style=for-the-badge&logo=unity" height="30" alt="DOTween logo"  />
+  
   <img src="https://img.shields.io/badge/SuperSonic-black?style=for-the-badge&logo=unity" height="30" alt="SuperSonic logo"  />
   <img src="https://img.shields.io/badge/PluginYG-black?style=for-the-badge&logo=unity" height="30" alt="PluginYG logo"  />
-  
+  <img src="https://img.shields.io/badge/CrazyGames-black?style=for-the-badge&logo=unity" height="30" alt="CrazyGames logo"  />
  <!-- <img src="https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio" height="30" alt="visualstudio logo"  /> -->
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" height="30" alt="git logo"  />
  <!-- <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" height="30" alt="github logo"  /> -->
