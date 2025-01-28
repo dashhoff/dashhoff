@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/unity-212830?style=for-the-badge&logo=unity" height="30" alt="unity logo"  />
 
   <img src="https://img.shields.io/badge/git-212830?style=for-the-badge&logo=git" height="30" alt="git logo"  />
+
+  <img src="https://img.shields.io/badge/blender-212830?style=for-the-badge&logo=blender" height="30" alt="blender logo"  />
   
   <img src="https://img.shields.io/badge/DOTween-212830?style=for-the-badge&logo=unity" height="30" alt="DOTween logo"  />
   
