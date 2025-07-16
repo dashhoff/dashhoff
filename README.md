@@ -30,6 +30,9 @@
   <a href="https://ddashh.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-212830?style=for-the-badge&logo=itchdotio" height="30" alt="itch.io logo"  />
   </a>
+  <a href="https://www.youtube.com/@Need4Rally" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-212830?style=for-the-badge&logo=youtube&logoColor=FF0000" height="30" alt="youtube logo"  />
+  </a>
   <!-- <a href="https://yandex.ru/games/developer?name=dashh" target="_blank">
     <img src="https://img.shields.io/badge/YandexGame-black?style=for-the-badge&logo=youtubegaming&logoColor=%23ffcb3f" height="30" alt="YG logo"  />
   </a> -->
@@ -44,6 +47,8 @@
   
   <img src="https://img.shields.io/badge/unity-212830?style=for-the-badge&logo=unity" height="30" alt="unity logo"  />
 
+  <img src="https://img.shields.io/badge/FMOD-212830?style=for-the-badge&logo=FMOD" height="30" alt="FMOD logo"  />
+
   <img src="https://img.shields.io/badge/git-212830?style=for-the-badge&logo=git" height="30" alt="git logo"  />
 
   <img src="https://img.shields.io/badge/blender-212830?style=for-the-badge&logo=blender" height="30" alt="blender logo"  />
@@ -53,6 +58,7 @@
   <img src="https://img.shields.io/badge/SuperSonic-212830?style=for-the-badge&logo=unity" height="30" alt="SuperSonic logo"  />
   <img src="https://img.shields.io/badge/PluginYG-212830?style=for-the-badge&logo=unity" height="30" alt="PluginYG logo"  />
   <img src="https://img.shields.io/badge/CrazyGames-212830?style=for-the-badge&logo=unity" height="30" alt="CrazyGames logo"  />
+  <img src="https://img.shields.io/badge/GamePush-212830?style=for-the-badge&logo=unity" height="30" alt="GamePush logo"  />
  <!-- <img src="https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio" height="30" alt="visualstudio logo"  /> -->
  <!-- <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" height="30" alt="github logo"  /> -->
   
