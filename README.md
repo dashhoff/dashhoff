@@ -19,7 +19,7 @@
   <img src="Need4Rally_HDRP.gif" alt="Need4Rally GIF" style="width:100%;" />
 </p>
 
-# Hi! I'm Unity Developer
+<!-- # Hi! I'm Unity Developer --->
 
 <div align="left">
   
