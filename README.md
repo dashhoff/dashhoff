@@ -23,6 +23,14 @@
   <a href="https://www.youtube.com/@Need4Rally" target="_blank">
     <img src="https://img.shields.io/badge/youtube-212830?style=for-the-badge&logo=youtube&logoColor=FF0000" height="30" alt="youtube logo"  />
   </a>
+  
+  <a href="https://www.instagram.com/need4rally/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-212830?style=for-the-badge&logo=instagram&logoColor=FF1493" height="30" alt="instagram logo"  />
+  </a>
+
+  <a href="https://www.tiktok.com/@need_4_rally" target="_blank">
+    <img src="https://img.shields.io/badge/tiktok-212830?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" height="30" alt="tiktok logo"  />
+  </a>
 </div>
 
 ## Technology Stack
