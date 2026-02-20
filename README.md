@@ -55,6 +55,10 @@
   <img src="https://img.shields.io/badge/GamePush-212830?style=for-the-badge&logo=unity" height="30" alt="GamePush logo"  />
 </div>
 
+<!--
+
 <p align="center">
   <img src="Audi.gif" alt="Audi GIF" style="width:100%;" />
 </p>
+
+--->
